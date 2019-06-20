@@ -1,0 +1,45 @@
+html {
+    background-color: lightgrey
+}
+
+.box {
+    background: pink; 
+}
+
+main {
+    margin: 50px 100px;
+}
+
+h1 {
+    color: darkorange;
+    font-family: Georgia; 
+    margin-left: 495px;
+}
+
+li {
+    display: inline-block;
+    width: 100px;
+    margin-left: 70px; 
+}
+
+#move {
+    margin-left: 375px
+}
+
+h2 {
+    margin: 0px 623.50px
+}
+
+img {
+    margin: 50px 0px;
+}
+a {
+    cursor: pointer;
+}
+
+.cap {
+    color: darkblue;
+    font-weight: bolder;
+    font-family: Arial;
+}
+
